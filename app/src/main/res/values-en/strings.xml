@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chat Invaders</string>
+    <string name="enter_chat">Enter</string>
+    <string name="hint_name">name</string>
+    <string name="enter_name">Enter your name:</string>
+</resources>
